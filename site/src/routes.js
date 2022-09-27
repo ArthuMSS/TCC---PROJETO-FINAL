@@ -20,7 +20,7 @@ import Login3 from './pages/User/loginUser/login003'
 import Login4 from './pages/User/loginUser/login004'
 import TelaUser from './pages/User/telaUser'
 import TelajogoUser from './pages/User/telajogoUser'
-import CadastroUser from './pages/User/Usercadastro'
+import CadastroUser from './pages/User/cadastroUser'
 
 
 
